@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "name": "Пепперони Фреш с перцем",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "name": "Сырная",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 245,
+    "category": null,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "name": "Кисло-сладкий цыпленок",
+    "types": [1],
+    "sizes": [],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "name": "Чизбургер-пицца",
+    "types": [0, 1],
+    "sizes": [26, null, 40],
+    "price": 415,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": 4,
+    "name": "Крэйзи пепперони",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 900,
+    "category": 2,
+    "rating": 2
+  }
+]
